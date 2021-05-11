@@ -6,5 +6,6 @@
 **Если не указаны параметры, берутся значения по умолчанию
 test.html и www.simbirsoft.com**
 
-![пример](https://ibb.co/2jMGRxC)
-https://ibb.co/2jMGRxC``
+
+![пример](https://i.ibb.co/nD1x49Y/image.png)
+https://ibb.co/2jMGRxC
